@@ -10,3 +10,5 @@ I'm a hard-working individual that is passionate for video-games and loves to pr
 - Freelance edited over 100+ videos, achieving over 750,000 views | 2020 - 2021
 - Computer Science helper | 2023 - Present
 - Fun, small coding projects throughout the years, found on my portfolio website.
+
+https://hamza2702.github.io/portfolio/index.html
