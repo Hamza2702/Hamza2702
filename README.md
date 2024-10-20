@@ -6,4 +6,11 @@
 - Computer Science helper | 2023 - Present
 - Fun, small coding projects throughout the years, found on my portfolio website.
 
+**About me**
+- Avid music enjoyer
+- I enjoy expressing my creativity in programming projects
+- Strong interest in video games
+- Fond of reading when I get the time
+- Learning the guitar!
+
 https://hamza2702.github.io/portfolio/index.html
