@@ -1,9 +1,4 @@
-<img src="71.png" alt="71" width="64" height="64" style="display:inline;"/> 
-<img src="38.png" alt="38" width="64" height="64" style="display:inline;"/> 
-<img src="28.png" alt="28" width="64" height="64" style="display:inline;"/> 
-<img src="19.png" alt="19" width="64" height="64" style="display:inline;"/> 
-<img src="30.png" alt="30" width="64" height="64" style="display:inline;"/> 
-<img src="31.png" alt="31" width="64" height="64" style="display:inline;"/>
+<img src="71.png" alt="71"/> <img src="38.png" alt="38"/> <img src="28.png" alt="28"/> <img src="19.png" alt="19"/> <img src="30.png" alt="30"/> <img src="31.png" alt="31" width="64" height="64"/>
 
 
 # Hamza
