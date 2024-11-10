@@ -2,6 +2,10 @@
 
 
 # Hamza
+- Hi, I'm Hamza
+- Currently studying Computer Science at Aston
+- How to reach me: [Email](mailto:HamzaKhan2702@outlook.com)
+
 - Proficient in Roblox LuaU scripting language | 2012 - Present
 - BT Co-Space Event - Programmed a robot | 2013
 - Freelance edited over 100+ videos, achieving over 750,000 views | 2020 - 2021
