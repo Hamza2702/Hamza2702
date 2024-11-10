@@ -5,7 +5,7 @@
 - Hi, I'm Hamza
 - Currently studying Computer Science at Aston
 - How to reach me: [Email](mailto:HamzaKhan2702@outlook.com)
-- [Website](https://hamza2702.github.io/portfolio/index.html)
+- Check out my [website](https://hamza2702.github.io/portfolio/index.html)!
 
 **About me**
 - Avid music enjoyer
