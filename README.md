@@ -21,3 +21,18 @@
 - Computer Science helper | 2023 - Present
 - Fun, small coding projects throughout the years, found on my portfolio website.
 
+**Languages**
+- Java
+- Lua
+- C#
+- Python
+- JavaScript
+- HTML/CSS (TailwindCSS)
+- PHP
+- MySQL
+
+# Links
+ [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/hamza-khan2"
