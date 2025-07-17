@@ -19,6 +19,8 @@
 - BT Co-Space Event - Programmed a robot | 2013
 - Freelance edited over 100+ videos, achieving over 750,000 views | 2020 - 2021
 - Computer Science helper | 2023 - Present
+- Computer Science Mentor | 2024 - 2025
+- Student Representative | 2024 - Present
 - Fun, small coding projects throughout the years, found on my portfolio website.
 
 **Languages**
