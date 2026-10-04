@@ -2,7 +2,7 @@
 # Hamza
 <div align="center">
 
-Hi, I'm Hamza! An aspiring software engineer that like making games, web apps and anything creative!
+Hi, I'm Hamza! An aspiring software engineer that likes making games, web apps and anything creative!
 
 [Email](mailto:HamzaKhan2702@outlook.com) | [Website](https://hamza2702.github.io/)
 </div>
